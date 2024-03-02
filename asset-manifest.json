@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1f61a5a.css",
+    "main.js": "/static/js/main.d1544390.js",
+    "static/media/HankenGrotesk-Medium.ttf": "/static/media/HankenGrotesk-Medium.234bf52fb6d6a56a561d.ttf",
+    "static/media/HankenGrotesk-ExtraBold.ttf": "/static/media/HankenGrotesk-ExtraBold.97e81bf3b3e87ffcef41.ttf",
+    "static/media/HankenGrotesk-Bold.ttf": "/static/media/HankenGrotesk-Bold.1161826a8f452bc76b77.ttf",
+    "index.html": "/index.html",
+    "main.e1f61a5a.css.map": "/static/css/main.e1f61a5a.css.map",
+    "main.d1544390.js.map": "/static/js/main.d1544390.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1f61a5a.css",
+    "static/js/main.d1544390.js"
+  ]
+}
